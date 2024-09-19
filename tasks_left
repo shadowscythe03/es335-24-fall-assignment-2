@@ -1,7 +1,7 @@
-Task-1:
-finished all functions
-need to vary parameters and write observations, mark sub questions.
-Task-2:
-Task-3:
-Task-4:
-Task-5:
+Task-1: for optimal learning rate- run with epochs "None", print no of iterations in average epochs,
+        caliculate optimal theta's with normal equation, caliculate loss and change convergence criteria
+        run animation function for all gradient functions
+Task-2: Learn about rff features. Can audio be exported?
+Task-3: rmse/psnr updation
+Task-4: need to write function for 3d
+Task-5: need to do this again from beginning

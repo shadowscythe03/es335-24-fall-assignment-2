@@ -3,5 +3,5 @@ Task-1: for optimal learning rate- run with epochs "None", print no of iteration
         run animation function for all gradient functions
 Task-2: Learn about rff features. Can audio be exported?
 Task-3: rmse/psnr updation
-Task-4: need to write function for 3d
+Task-4: need to do rff in part-2 for 3d
 Task-5: need to do this again from beginning
